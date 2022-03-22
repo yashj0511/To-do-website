@@ -1,0 +1,39 @@
+[debug] [2022-03-22T19:05:38.597Z] ----------------------------------------------------------------------
+[debug] [2022-03-22T19:05:38.609Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\yashj\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-03-22T19:05:38.612Z] CLI Version:   10.4.1
+[debug] [2022-03-22T19:05:38.612Z] Platform:      win32
+[debug] [2022-03-22T19:05:38.613Z] Node Version:  v16.13.0
+[debug] [2022-03-22T19:05:38.619Z] Time:          Wed Mar 23 2022 00:35:38 GMT+0530 (India Standard Time)
+[debug] [2022-03-22T19:05:38.620Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-03-22T19:05:38.660Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-03-22T19:05:38.661Z] > authorizing via signed-in user (yashjaware511@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\yashj\Desktop\PROJECTS\todoapp\todo
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-03-22T19:07:17.993Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2022-03-22T19:07:19.497Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2022-03-22T19:07:19.498Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project todo-app-f0bf6 (todo-app) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
